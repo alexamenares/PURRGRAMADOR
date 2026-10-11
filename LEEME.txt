@@ -1,0 +1,25 @@
+PURRGRAMADOR — PROTOTIPO NAVEGABLE DEL MVP
+
+Cómo abrirlo
+1. Extrae el archivo ZIP.
+2. Abre index.html en un navegador actualizado.
+3. Usa la navegación horizontal para recorrer las secciones.
+
+Qué incluye
+- Inicio y propuesta de aprendizaje mediante historias guiadas.
+- Aprendizaje y recursos.
+- Detalle de una misión con desafío interactivo.
+- Progreso y perfil demostrativos.
+- Laboratorio con sus tres módulos.
+- Oportunidades y categorías para difusión de terceros.
+- Blog y publicaciones de Instagram.
+- Red comunitaria con propuesta inicial de reglas.
+- Tienda preparada para la novela física, artículos y otros productos.
+- Universo con los nombres y especialidades registrados, además de la novela y el juego.
+
+Notas
+- El prototipo es demostrativo: no tiene cuentas, compras, publicaciones reales ni conexión al backend.
+- Las interacciones (navegación, filtros, desafío y avisos) ocurren localmente en el navegador.
+- El logo está integrado dentro de index.html.
+- Space Grotesk se carga desde Google Fonts cuando hay conexión a internet; sin conexión se usa una fuente alternativa del sistema.
+- No se incluyen precios, convocatorias reales, métricas ni información narrativa pendiente de confirmación.
