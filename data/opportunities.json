@@ -1,0 +1,11 @@
+[
+  { "id": "op-1", "category": "Empleo", "title": "Ficha de oportunidad", "desc": "Organización, requisitos, modalidad y enlace: por completar." },
+  { "id": "op-2", "category": "Práctica", "title": "Ficha de oportunidad", "desc": "Datos y condiciones: por completar desde la fuente externa." },
+  { "id": "op-3", "category": "Voluntariado", "title": "Ficha de oportunidad", "desc": "Descripción, fecha y organización: por completar." },
+  { "id": "op-4", "category": "Proyecto", "title": "Ficha de oportunidad", "desc": "Información y forma de participación: por completar." },
+  { "id": "op-5", "category": "Freelance", "title": "Ficha de oportunidad", "desc": "Datos de la convocatoria externa: por completar." },
+  { "id": "op-6", "category": "Beca", "title": "Ficha de oportunidad", "desc": "Requisitos y plazos: por completar." },
+  { "id": "op-7", "category": "Investigación", "title": "Ficha de oportunidad", "desc": "Proyecto y contacto de origen: por completar." },
+  { "id": "op-8", "category": "Pasantía", "title": "Ficha de oportunidad", "desc": "Área, duración y requisitos: por completar." },
+  { "id": "op-9", "category": "Evento", "title": "Ficha de oportunidad", "desc": "Fecha, modalidad y enlace: por completar." }
+]

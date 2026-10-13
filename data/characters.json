@@ -1,0 +1,23 @@
+[
+  { "id": "purrgramador", "name": "Purrgramador", "specialty": "Programación · Full Stack · hacking ético" },
+  { "id": "dinodev", "name": "DinoDev", "specialty": "Videojuegos" },
+  { "id": "byteboy", "name": "Byte-Boy", "specialty": "Robótica · inteligencia artificial" },
+  { "id": "pyra", "name": "Pyra", "specialty": "Datos · SQL · Python" },
+  { "id": "winona", "name": "Winona", "specialty": "Ciberseguridad" },
+  { "id": "chaleon", "name": "Chaleon", "specialty": "Desarrollo móvil" },
+  { "id": "pudin", "name": "Pudin", "specialty": "Matemáticas · física" },
+  { "id": "astroloe", "name": "Astroloe", "specialty": "Realidad virtual · drones · astrofísica" },
+  { "id": "osus", "name": "Osus", "specialty": "Hardware · fabricación" },
+  { "id": "mimik", "name": "Mimik", "specialty": "Cloud" },
+  { "id": "penguinik", "name": "Penguinik", "specialty": "Linux · redes · DevOps" },
+  { "id": "pixelle", "name": "Pixelle", "specialty": "UI/UX · diseño" },
+  { "id": "genix", "name": "Genix", "specialty": "Biotecnología · inteligencia artificial" },
+  { "id": "luma", "name": "Luma", "specialty": "IA emocional · ética · Scrum" },
+  { "id": "sonya", "name": "Sonya", "specialty": "Audio · música digital" },
+  { "id": "cerafino", "name": "Cerafino", "specialty": "Gestión · QA · testing" },
+  { "id": "hashwolf", "name": "HashWolf", "specialty": "Blockchain · seguridad ofensiva" },
+  { "id": "novale", "name": "Novale", "specialty": "Periodismo · verificación de datos" },
+  { "id": "glad", "name": "Glad", "specialty": "Derecho tecnológico · privacidad" },
+  { "id": "heyelees", "name": "Heyelees", "specialty": "Información · observación" },
+  { "id": "arbol", "name": "Árbol de la Vida", "specialty": "Vida · energía · filosofía" }
+]

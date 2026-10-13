@@ -1,0 +1,50 @@
+[
+  {
+    "id": "senal-perdida",
+    "title": "La señal perdida",
+    "summary": "Primeros pasos: mostrar un mensaje en la terminal.",
+    "tag": "Misión demostrativa",
+    "symbol": "⌘",
+    "concept": "Mostrar texto en la terminal",
+    "scene": "El terminal de una estación dejó de mostrar mensajes. Escribe una instrucción que muestre “Hola, mundo” en pantalla.",
+    "options": [
+      { "code": "return \"Hola, mundo\"", "correct": false },
+      { "code": "print(\"Hola, mundo\")", "correct": true },
+      { "code": "input(\"Hola, mundo\")", "correct": false }
+    ],
+    "explanation": "En Python, print() muestra un valor en la terminal.",
+    "keywords": ["variables", "salida", "terminal", "python", "print"]
+  },
+  {
+    "id": "rutas-cruzadas",
+    "title": "Rutas cruzadas",
+    "summary": "Una decisión para introducir condiciones.",
+    "tag": "Idea demostrativa",
+    "symbol": "◇",
+    "concept": "Condicionales",
+    "scene": "Dos rutas aparecen frente a ti. Debes elegir una según la energía disponible.",
+    "options": [
+      { "code": "if energia > 0: avanzar()", "correct": true },
+      { "code": "avanzar() siempre", "correct": false },
+      { "code": "while true: elegir()", "correct": false }
+    ],
+    "explanation": "Las condiciones permiten decidir según el estado.",
+    "keywords": ["condicionales", "if", "decisiones"]
+  },
+  {
+    "id": "senales-repetidas",
+    "title": "Señales repetidas",
+    "summary": "Una secuencia narrativa para explorar ciclos.",
+    "tag": "Idea demostrativa",
+    "symbol": "⟳",
+    "concept": "Bucles",
+    "scene": "La baliza debe emitir tres señales consecutivas.",
+    "options": [
+      { "code": "for i in range(3): emitir()", "correct": true },
+      { "code": "emitir()", "correct": false },
+      { "code": "if emitir(): repetir", "correct": false }
+    ],
+    "explanation": "Los bucles repiten una acción varias veces.",
+    "keywords": ["bucles", "for", "range", "ciclos"]
+  }
+]
