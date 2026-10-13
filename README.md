@@ -2,7 +2,7 @@
 
 > Aprender tecnología con historias.
 
-Purrgramador es un proyecto educativo, tecnológico y narrativo que busca acercar la informática, la programación, la inteligencia artificial y la ciberseguridad a estudiantes y personas principiantes. Combina un universo narrativo con personajes que enseñan, acompañan y entretienen.
+Purrgramador es un proyecto educativo, tecnológico y narrativo que busca acercar la informática, la programación, la inteligencia artificial, la ciberseguridad y otras tecnologías, a estudiantes y personas principiantes. Combina un universo narrativo con personajes que enseñan, acompañan y entretienen.
 
 ## Estado
 
